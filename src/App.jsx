@@ -6,7 +6,11 @@ function App() {
   return (
     <>
       <div className="profile-container">
-        <div className="profile"></div>
+        <div className="profile">
+          <div className="profile-pic-container">
+            <div className="profile-pic"></div>
+          </div>
+        </div>
       </div>
     </>
   );
