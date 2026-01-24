@@ -86,3 +86,7 @@ body {
 a {
   color: white; /* Inherits color from parent */
 }
+
+.margin {
+  margin-bottom: 80px;
+}
