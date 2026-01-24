@@ -24,6 +24,18 @@ function App() {
                 <span className="basic-info-head">DOB:</span>{" "}
                 <p>21/December/1991</p>
               </div>
+
+              <div className="flex-box">
+                <i class="fa-solid fa-house"></i>{" "}
+                <span className="basic-info-head">Hometown:</span>{" "}
+                <p>Coochbehar, West Bengal</p>
+              </div>
+
+              <div className="flex-box">
+                <i class="fa-solid fa-location-arrow"></i>
+                <span className="basic-info-head">Lives in:</span>{" "}
+                <p>Bangalore, Karnataka</p>
+              </div>
             </div>
           </div>
         </div>
