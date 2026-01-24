@@ -18,6 +18,12 @@ function App() {
                 <span className="basic-info-head">Name:</span>{" "}
                 <p>Abhishek Kabi</p>
               </div>
+
+              <div className="flex-box">
+                <i class="fa-solid fa-id-card"></i>{" "}
+                <span className="basic-info-head">DOB:</span>{" "}
+                <p>21/December/1991</p>
+              </div>
             </div>
           </div>
         </div>

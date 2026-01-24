@@ -38,16 +38,16 @@ body {
 }
 
 .basic-info {
-  margin-top: 30px;
+  margin-top: 15px;
   padding: 20px;
 }
 
 .basic-info i {
-  color: yellow;
+  color: green;
 }
 
 .basic-info-head {
-  color: yellow;
+  color: green;
 }
 
 .basic-info p {
