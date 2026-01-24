@@ -76,6 +76,7 @@ function App() {
                 <div className="flex-box" style={{ marginTop: "20px" }}>
                   <i class="fa-solid fa-diagram-project"></i>
                   <span className="basic-info-head">Project:</span>{" "}
+                  <i class="fa-solid fa-flask" style={{ color: "white" }}></i>
                   <a href="https://abk2191.github.io/aphelion-labs/">
                     iINTUIT Labs.
                   </a>
