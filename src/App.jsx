@@ -78,7 +78,7 @@ function App() {
                   <span className="basic-info-head">Project:</span>{" "}
                   <i class="fa-solid fa-flask" style={{ color: "white" }}></i>
                   <a href="https://abk2191.github.io/aphelion-labs/">
-                    iINTUIT Labs.
+                    iINTUIT Labs
                   </a>
                   <p>2026.</p>
                 </div>
