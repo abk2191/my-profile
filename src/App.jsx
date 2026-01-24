@@ -59,16 +59,26 @@ function App() {
                   <p>Work (Domain IT):</p>
                 </div>
                 <div className="work-details">
-                  <p>1. Aegis 2017 (Jio Customer Suppport)</p>
-                  <p>2. DXC Technology 2018 (EON L1 Tech Support)</p>
-                  <p>3. HP 2019</p>
-                  <p>4. Quinnox 2019</p>
-                  <p>5. Concentrix 2019</p>
-                  <p>6. Teleperformance 2020</p>
-                  <p>7. Amazon 2020</p>
-                  <p>8. Cameo Global 2023</p>
-                  <p>9. Alorica 2025</p>
-                  <p>10. Concentrix 2025</p>
+                  <p>1. Aegis 2017 (Jio Customer Suppport).</p>
+                  <p>2. DXC Technology 2018 (EON L1 Tech Support).</p>
+                  <p>3. HP 2019 (Internal L1 Support).</p>
+                  <p>4. Quinnox 2019 (Mainframe Developer).</p>
+                  <p>5. Concentrix 2019 (OnePlus Support).</p>
+                  <p>6. Teleperformance 2020 (Telecaller).</p>
+                  <p>7. Amazon 2020 (Seller Support).</p>
+                  <p>8. Cameo Global 2023 (Cisco L1 Support).</p>
+                  <p>9. Alorica 2025 (Amazon Support).</p>
+                  <p>10. Concentrix 2025 (VMWare L1 Support).</p>
+                </div>
+
+                <div className="divider-line"></div>
+
+                <div className="flex-box" style={{ marginTop: "20px" }}>
+                  <i class="fa-solid fa-diagram-project"></i>
+                  <span className="basic-info-head">Project:</span>{" "}
+                  <a href="https://abk2191.github.io/aphelion-labs/">
+                    iINTUIT Labs.
+                  </a>
                 </div>
               </div>
             </div>
