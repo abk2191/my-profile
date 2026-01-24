@@ -38,6 +38,18 @@ function App() {
               </div>
 
               <div className="divider-line"></div>
+
+              <div className="flex-box">
+                <i class="fa-solid fa-building-columns"></i>
+                <span className="basic-info-head">Education:</span>{" "}
+                <p>SST, SGHS, MNHS.</p>
+              </div>
+
+              <div className="flex-box">
+                <i class="fa-solid fa-graduation-cap"></i>
+                <span className="basic-info-head">College:</span>{" "}
+                <p>VIT Vellroe. 2010 - 2017.</p>
+              </div>
             </div>
           </div>
         </div>
