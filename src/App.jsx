@@ -50,6 +50,19 @@ function App() {
                 <span className="basic-info-head">College:</span>{" "}
                 <p>VIT Vellroe. 2010 - 2017.</p>
               </div>
+
+              <div className="divider-line"></div>
+
+              <div className="flex-box-for-work">
+                <div className="icon-and-label">
+                  <i class="fa-solid fa-briefcase"></i>
+                  <p>Work:</p>
+                </div>
+                <div className="work-details">
+                  <p>Aegis 2017</p>
+                  <p>DXC Technology 2018</p>
+                </div>
+              </div>
             </div>
           </div>
         </div>

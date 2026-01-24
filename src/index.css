@@ -8,13 +8,13 @@
 
 body {
   background-color: black;
-  overflow-y: hidden;
+  overflow-y: auto;
   overflow-x: hidden;
   font-family: "Inter", sans-serif;
 }
 
 .profile {
-  height: 550px;
+  height: auto;
   width: 350px;
   border: 1px solid #1a1a1a;
 }
@@ -63,4 +63,23 @@ body {
 .divider-line {
   border-top: 1px solid rgb(235, 233, 233);
   margin-top: 20px;
+}
+
+.icon-and-label {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.icon-and-label p {
+  color: green;
+}
+
+.icon-and-label span {
+  color: white;
+}
+
+.work-details {
+  display: flex;
+  flex-direction: column;
 }
