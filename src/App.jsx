@@ -10,6 +10,16 @@ function App() {
           <div className="profile-pic-container">
             <div className="profile-pic"></div>
           </div>
+
+          <div className="profile-details">
+            <div className="basic-info">
+              <div className="flex-box">
+                <i class="fa-solid fa-tag"></i>{" "}
+                <span className="basic-info-head">Name:</span>{" "}
+                <p>Abhishek Kabi</p>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </>

@@ -10,6 +10,7 @@ body {
   background-color: black;
   overflow-y: hidden;
   overflow-x: hidden;
+  font-family: "Inter", sans-serif;
 }
 
 .profile {
@@ -34,4 +35,27 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+}
+
+.basic-info {
+  margin-top: 30px;
+  padding: 20px;
+}
+
+.basic-info i {
+  color: yellow;
+}
+
+.basic-info-head {
+  color: yellow;
+}
+
+.basic-info p {
+  color: white;
+}
+
+.flex-box {
+  display: flex;
+  align-items: center;
+  gap: 8px;
 }
