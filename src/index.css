@@ -59,3 +59,8 @@ body {
   align-items: center;
   gap: 8px;
 }
+
+.divider-line {
+  border-top: 1px solid rgb(235, 233, 233);
+  margin-top: 20px;
+}

@@ -36,6 +36,8 @@ function App() {
                 <span className="basic-info-head">Lives in:</span>{" "}
                 <p>Bangalore, Karnataka</p>
               </div>
+
+              <div className="divider-line"></div>
             </div>
           </div>
         </div>
