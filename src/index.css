@@ -1,0 +1,17 @@
+.profile-container {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  height: 100vh;
+  margin-top: 60px;
+}
+
+body {
+  background-color: black;
+}
+
+.profile {
+  height: 550px;
+  width: 350px;
+  border: 1px solid white;
+}
