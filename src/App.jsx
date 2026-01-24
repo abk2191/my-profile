@@ -80,6 +80,7 @@ function App() {
                   <a href="https://abk2191.github.io/aphelion-labs/">
                     iINTUIT Labs.
                   </a>
+                  <p>2026.</p>
                 </div>
 
                 <div className="margin"></div>
