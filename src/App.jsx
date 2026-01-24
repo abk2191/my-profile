@@ -41,7 +41,7 @@ function App() {
 
               <div className="flex-box">
                 <i class="fa-solid fa-building-columns"></i>
-                <span className="basic-info-head">Education:</span>{" "}
+                <span className="basic-info-head">Schools:</span>{" "}
                 <p>SST, SGHS, MNHS.</p>
               </div>
 
