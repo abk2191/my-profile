@@ -56,11 +56,19 @@ function App() {
               <div className="flex-box-for-work">
                 <div className="icon-and-label">
                   <i class="fa-solid fa-briefcase"></i>
-                  <p>Work:</p>
+                  <p>Work (Domain IT):</p>
                 </div>
                 <div className="work-details">
-                  <p>Aegis 2017</p>
-                  <p>DXC Technology 2018</p>
+                  <p>1. Aegis 2017</p>
+                  <p>2. DXC Technology 2018</p>
+                  <p>3. HP 2019</p>
+                  <p>4. Quinnox 2019</p>
+                  <p>5. Concentrix 2019</p>
+                  <p>6. Teleperformance 2020</p>
+                  <p>7. Amazon 2020</p>
+                  <p>8. Cameo Global 2023</p>
+                  <p>9. Alorica 2025</p>
+                  <p>10. Concentrix 2025</p>
                 </div>
               </div>
             </div>
