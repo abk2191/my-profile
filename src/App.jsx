@@ -59,8 +59,8 @@ function App() {
                   <p>Work (Domain IT):</p>
                 </div>
                 <div className="work-details">
-                  <p>1. Aegis 2017</p>
-                  <p>2. DXC Technology 2018</p>
+                  <p>1. Aegis 2017 (Jio Customer Suppport)</p>
+                  <p>2. DXC Technology 2018 (EON L1 Tech Support)</p>
                   <p>3. HP 2019</p>
                   <p>4. Quinnox 2019</p>
                   <p>5. Concentrix 2019</p>
