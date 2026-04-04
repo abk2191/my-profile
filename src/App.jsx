@@ -69,8 +69,8 @@ function App() {
                   <p>8. Cameo Global 2023 (Cisco L1 Support).</p>
                   <p>9. Alorica 2025 (Amazon Support).</p>
                   <p>10. Concentrix 2025 (VMWare L1 Support).</p>
-                  <p>11. Startek (Aegis) (PhonePe Support).</p>
-                  <p>12. Alorica (Amazon Support).</p>
+                  <p>11. Startek (Aegis) 2026 (PhonePe Support).</p>
+                  <p>12. Alorica 2026 (Amazon Support).</p>
                 </div>
 
                 <div className="divider-line"></div>
