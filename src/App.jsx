@@ -69,6 +69,8 @@ function App() {
                   <p>8. Cameo Global 2023 (Cisco L1 Support).</p>
                   <p>9. Alorica 2025 (Amazon Support).</p>
                   <p>10. Concentrix 2025 (VMWare L1 Support).</p>
+                  <p>11. Startek (Aegis) (PhonePe Support).</p>
+                  <p>12. Alorica (Amazon Support).</p>
                 </div>
 
                 <div className="divider-line"></div>
@@ -80,7 +82,7 @@ function App() {
                   <a href="https://abk2191.github.io/aphelion-labs/">
                     iINTUIT Labs
                   </a>
-                  <p>2026.</p>
+                  <p>2026. (Space.)</p>
                 </div>
 
                 <div className="margin"></div>
