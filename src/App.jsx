@@ -37,6 +37,7 @@ function App() {
       <div className="profile-container">
         <div className="profile">
           <div className="profile-pic-container">
+            <div className="pulse-ring"></div>
             <div className="profile-pic"></div>
           </div>
 
