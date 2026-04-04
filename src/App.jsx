@@ -5,7 +5,7 @@ function App() {
 
   useEffect(() => {
     const calculateAge = () => {
-      const birthDate = new Date(1991, 11, 21); // December 21, 1991 (month is 0-indexed)
+      const birthDate = new Date(1991, 11, 21);
       const today = new Date();
 
       let years = today.getFullYear() - birthDate.getFullYear();
@@ -27,7 +27,7 @@ function App() {
     };
 
     calculateAge();
-    const interval = setInterval(calculateAge, 1000 * 60 * 60 * 24); // Update daily
+    const interval = setInterval(calculateAge, 1000 * 60 * 60 * 24);
 
     return () => clearInterval(interval);
   }, []);
@@ -37,7 +37,6 @@ function App() {
       <div className="profile-container">
         <div className="profile">
           <div className="profile-pic-container">
-            <div className="pulse-ring"></div>
             <div className="profile-pic"></div>
           </div>
 
